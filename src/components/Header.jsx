@@ -1,25 +1,27 @@
 import React from "react";
 
+const baseUrl = "/portfolio-baacdev";
+
 const navItems = [
   {
     title: "Experiencia",
     label: "experiencia",
-    url: "/#experiencia",
+    url: `${baseUrl}/#experiencia`,
   },
   {
     title: "Proyectos",
     label: "proyectos",
-    url: "/#proyectos",
+    url: `${baseUrl}/#proyectos`,
   },
   {
     title: "Sobre mí",
     label: "sobre-mi",
-    url: "/#sobre-mi",
+    url: `${baseUrl}/#sobre-mi`,
   },
   {
     title: "Contacto",
     label: "contacto",
-    url: "mailto:baacdev@gmail.com",
+    url: "mailto:baacdev@gmail.com", // No es necesario cambiar este
   },
 ];
 
