@@ -1,5 +1,5 @@
 import React from "react";
-import LinkInline from "./LinkInline";
+import LinkInline from "./LinkInLine";
 
 const EXPERIENCE = [
   {
