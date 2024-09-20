@@ -27,12 +27,9 @@ const AboutSection = () => {
       </div>
 
       <img
-        width="200"
-        height="200"
         src="https://media.artsper.com/artwork/2126511_1_m.jpg"
         alt={personalImageAlt}
-        className="order-1 object-cover w-64 h-full p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-black dark:bg-transparent ring-1 ring-black/70 dark:ring-white/50"
-        style={{ objectPosition: "50% 50%" }}
+        className="order-1 object-cover size-48 p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-black dark:bg-transparent ring-1 ring-black/70 dark:ring-white/50"
       />
     </article>
   );
