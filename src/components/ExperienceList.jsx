@@ -9,13 +9,6 @@ const EXPERIENCE = [
     description:
       "El objetivo del proyecto fue implementar un sistema integral para solucionar problemas de pérdida de alimentos, falta de control de inventarios, y gestionar eficientemente las ventas y las ganancias.",
   },
-  {
-    date: "Marzo 2023 - Abril 2023",
-    title: "Desarrollador Web",
-    company: "Mi Primer Balón",
-    description:
-      "Desarrollé un sitio web para una pequeña empresa de fútbol, enfocada en promover sus servicios y eventos. El objetivo principal del proyecto fue crear una plataforma informativa y atractiva para sus clientes y aficionados",
-  },
 ];
 
 const ExperienceItem = ({ title, company, description, link, date }) => {

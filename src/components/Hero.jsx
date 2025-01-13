@@ -24,9 +24,8 @@ const Hero = () => {
         Hola, soy Brandon Acosta
       </h1>
       <p className="mt-6 text-xl dark:[&>strong]:text-emerald-400 [&>strong]:font-semibold text-gray-300">
-        +1 año de experiencia. <strong>Ingeniero de Software</strong>, de
-        Arequipa, Peru 🇵🇪. Especializado en el desarrollo de aplicaciones web
-        únicas.
+        <strong>Ingeniero de Software</strong>, de
+        Arequipa, Peru 🇵🇪. Con una sólida base teórica y práctica, obtenida a través de mi formación académica y proyectos personales. 
       </p>
       <div className="flex flex-wrap gap-4 mt-8">
         <SocialPill />

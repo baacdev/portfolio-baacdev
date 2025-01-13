@@ -17,6 +17,8 @@ const PROJECTS = [
     title: "Coffee shop",
     description:
       "Desarrollé una tienda de café en línea que permite a los usuarios explorar y comprar cafés de especialidad. El proyecto incluye funcionalidad de carrito de compras y una sección que resalta la ubicación y ambiente del coffee shop.",
+    link: "https://coffee-shop-production.up.railway.app/",
+    github: "https://github.com/baacdev/coffee-shop",
     image:
       "https://github.com/acimages/images/raw/main/coffee-shop.png?raw=true",
     tags: [TAGS.TAILWIND],
